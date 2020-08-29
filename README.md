@@ -1,5 +1,5 @@
-# RPA-exercise
-Outcome of foundation level RPA training program
+# Robotic process automation -exercise
+Outcome of RPA training program
 
  About RPA:
  
