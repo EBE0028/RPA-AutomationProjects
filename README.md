@@ -1,5 +1,5 @@
 # Robotic process automation -exercise
-Outcome of RPA training program
+Robotic process automation 
 
  About RPA:
  
